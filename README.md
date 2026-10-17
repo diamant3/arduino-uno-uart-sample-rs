@@ -27,4 +27,5 @@ tio /dev/ttyUSB0 -b 115200
 
 - https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
 - https://os.phil-opp.com/freestanding-rust-binary/
+- https://doc.rust-lang.org/rustc/platform-support/avr-none.html
 
